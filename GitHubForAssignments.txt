@@ -1,0 +1,1 @@
+Since IÕm somewhat familiar with committing changes to my GitHub repositories via VSCode, I think IÕll try to do the same via RStudio. It seems like it should be straightforward. Fingers crossed.
